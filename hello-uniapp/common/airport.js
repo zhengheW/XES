@@ -20,7 +20,8 @@ export default {
 			"dddddd",
 			"dddcccc",
 			"aaaaa",
-			"你哈"
+			"你哈",
+			"lailal"
         ]
     }, {
         "letter": "C",
