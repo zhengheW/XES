@@ -16,13 +16,8 @@ export default {
             "包头机场",
             "北海福成机场",
             "北京南苑机场",
-            "北京首都国际机场",
-			"dddddd",
-			"dddcccc",
-			"aaaaa",
-			"你哈",
-			"lailal",
-			"ddasdfasdf"
+            "北京首都国际机场"
+	
         ]
     }, {
         "letter": "C",
